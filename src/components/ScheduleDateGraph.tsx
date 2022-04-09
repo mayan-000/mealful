@@ -40,7 +40,7 @@ const ScheduleDateGraph: React.FC<ScheduleDateGraphProps> = (
             </>
           ),
         },
-        position: { x: 1.5 * 500, y: y * 150 },
+        position: { x: 1.5 * 500, y: y * 100 },
         type: "input",
         style: {
           width: "200px",
